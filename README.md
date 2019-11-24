@@ -1,7 +1,7 @@
 [点此进入在线阅读](https://sanyuan0704.github.io/frontend_daily_question/)
 
 # 文章目录
-![](https://sanyuan0704.github.io/frontend_daily_question/summary1.jpg)
+![大纲](https://sanyuan0704.github.io/frontend_daily_question/summary1.jpg)
 
 文章链接:
 
