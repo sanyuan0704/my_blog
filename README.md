@@ -1,7 +1,7 @@
 [点此进入在线阅读](https://sanyuan0704.github.io/frontend_daily_question/)
 
 # 文章目录
-![](https://user-gold-cdn.xitu.io/2019/11/24/16e9dc5f178e89fd?w=1114&h=945&f=png&s=466238)
+![](https://sanyuan0704.github.io/frontend_daily_question/summary1.jpg)
 
 文章链接:
 
