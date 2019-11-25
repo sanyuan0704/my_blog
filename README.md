@@ -1,4 +1,4 @@
-[点此进入在线阅读](https://sanyuan0704.github.io/frontend_daily_question/)
+[点此进入在线阅读](https://sanyuan0704.github.io/frontend_daily_question/nav/)
 
 # 文章目录
 ![大纲](https://sanyuan0704.github.io/frontend_daily_question/summary1.jpg)
