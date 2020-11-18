@@ -1,0 +1,18 @@
+{
+  "name": "my_blog",
+  "version": "1.0.0",
+  "author": "reco_luan",
+  "scripts": {
+    "dev": "vuepress dev . --host \"localhost\"",
+    "build": "vuepress build ."
+  },
+  "devDependencies": {
+    "vuepress": "1.5.4",
+    "vuepress-theme-reco": "1.5.7"
+  },
+  "dependencies": {
+    "@vuepress-reco/vuepress-plugin-comments": "^1.5.7",
+    "vue-class-component": "^7.2.3"
+  },
+  "description": ""
+}
