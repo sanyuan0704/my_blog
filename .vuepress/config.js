@@ -21,7 +21,7 @@ module.exports = {
       }
     ]
   ],
-  "plugins": ["@vuepress-reco/vuepress-plugin-comments"],
+  "plugins": ["@vuepress-reco/vuepress-plugin-comments", "vuepress-plugin-meting"],
   "theme": "reco",
   "themeConfig": {
     "mode": 'light',
